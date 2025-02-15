@@ -1,4 +1,4 @@
-# Sarah Fuchi - Data Science Projects Portfolio
+# Joseph Rodrigo - Data Science Projects Portfolio
 
 ## Index
 
